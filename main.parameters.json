@@ -12,7 +12,7 @@
       "value": "sqlDBMI"
     },
     "sqlAdminSID": {
-      "value": "45e01165-f442-46c8-ab08-35dd99ebd95a"
+      "value": "GUID of the Azure AD Group"
     },
     "secretValue": {
       "value": "This is my super secret value"
